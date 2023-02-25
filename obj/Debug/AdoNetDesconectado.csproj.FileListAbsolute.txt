@@ -1,0 +1,23 @@
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\BD\AdoNetDesconectado\bin\Debug\AdoNetDesconectado.exe.config
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\BD\AdoNetDesconectado\bin\Debug\AdoNetDesconectado.exe
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\BD\AdoNetDesconectado\bin\Debug\AdoNetDesconectado.pdb
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\BD\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\BD\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\BD\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.frmTipoCliente.resources
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\BD\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.Properties.Resources.resources
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\BD\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\BD\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\BD\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.exe
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\BD\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.pdb
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\Desarrollo de Soluciones Empresariales\AdoNetDesconectado\bin\Debug\AdoNetDesconectado.exe.config
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\Desarrollo de Soluciones Empresariales\AdoNetDesconectado\bin\Debug\AdoNetDesconectado.exe
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\Desarrollo de Soluciones Empresariales\AdoNetDesconectado\bin\Debug\AdoNetDesconectado.pdb
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\Desarrollo de Soluciones Empresariales\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\Desarrollo de Soluciones Empresariales\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\Desarrollo de Soluciones Empresariales\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.frmTipoCliente.resources
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\Desarrollo de Soluciones Empresariales\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.frmTipoClienteEdit.resources
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\Desarrollo de Soluciones Empresariales\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.Properties.Resources.resources
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\Desarrollo de Soluciones Empresariales\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\Desarrollo de Soluciones Empresariales\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\Desarrollo de Soluciones Empresariales\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.exe
+C:\Users\alexa\OneDrive\Escritorio\Sise\3° Ciclo\Desarrollo de Soluciones Empresariales\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.pdb
